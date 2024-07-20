@@ -1,5 +1,4 @@
 import { Router } from 'express';
-
 import { ctrlWrapper } from '../utils/ctrlWrapper.js';
 import { getStudents, getStudentById } from '../controllers/students.js';
 
